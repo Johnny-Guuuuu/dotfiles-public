@@ -27,6 +27,8 @@ arch -x86_64 zsh
 
 下载git cz命令，注意全局安装问题
 
+区分git用户
+
 # font
 
 使用 GoMono Nerd Font
